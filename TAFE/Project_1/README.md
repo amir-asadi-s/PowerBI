@@ -1,4 +1,4 @@
-## Tutorial: From Excel workbook to stunning report in Power BI Desktop
+## Project_1: From Excel workbook to stunning report in Power BI Desktop
 
 ![Profile Picture](https://learn.microsoft.com/en-us/power-bi/create-reports/media/desktop-excel-stunning-report/power-bi-excel-report-service.png#lightbox)
 
